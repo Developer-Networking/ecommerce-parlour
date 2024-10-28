@@ -9,8 +9,7 @@ import { useState } from "react";
 import Cart from "./components/Cart";
 
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
+const geistSans = localFont({className
   variable: "--font-geist-sans",
   weight: "100 900",
 });
